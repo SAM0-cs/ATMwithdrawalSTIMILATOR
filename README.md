@@ -1,2 +1,2 @@
-# Test_Repo
-My awesome website!!
+# Practice_Repo
+Code Journey Starts!!..
